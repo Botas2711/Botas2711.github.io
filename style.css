@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(93, 187, 187)
+}
+
+#preg{
+    text-align: center;
+    display: block;
+}
+
+p {
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: auto;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#BtnYes{
+    transform: translate(-100%, 0);
+}
+
+#BtnNo{
+    position: absolute;
+}
+
+#ima{
+    text-align: center;
+    width: auto;
+    height: auto;
+    display: block;
+    padding-top: 3%;
+}
+
+#cred{
+    text-align: center;
+    padding-top: 2%;
+    padding: auto;
+}
